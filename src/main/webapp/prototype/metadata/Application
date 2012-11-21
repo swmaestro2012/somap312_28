@@ -1,0 +1,21 @@
+{
+    "type": "application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "stores": [
+            "MyArrayStore"
+        ],
+        "views": [
+            "MyWindow",
+            "MyWindow1"
+        ],
+        "autoCreateViewport": true,
+        "name": "MyApp"
+    },
+    "id": "ExtBox1-ext-gen1777",
+    "designerId": "application"
+}
